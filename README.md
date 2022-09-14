@@ -1,4 +1,4 @@
-# asl-recognition
+# American Sign Language Recognition
 A Computer Vision and Deep Learning approach to [American Sign Language](https://en.wikipedia.org/wiki/American_Sign_Language)(ASL) Detection
 
 ## Motivation behind project
